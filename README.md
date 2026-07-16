@@ -2,6 +2,24 @@
 
 阿里前端工程师 · 「汤姆喵奇妙旅行」公众号作者 · 2 岁宝宝的奶爸 🍼
 
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/tomczhang/tomczhang/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/tomczhang/tomczhang/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/tomczhang/tomczhang/output/github-contribution-grid-snake.svg"
+      width="100%"
+    />
+  </picture>
+</p>
+
 ## 🚀 关于我
 
 - 🎓 爱丁堡大学 Informatics 研究生
